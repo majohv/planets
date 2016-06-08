@@ -1,3 +1,6 @@
 Estoy en un workshop de programación
 Me van a enseñar a usar UNIX
-Me van a enseñar a usa Git Hub:
+Me van a enseñar a usa Git Hub
+Estoy agregando otras tres lineas
+Para hacer el ejercicio
+
